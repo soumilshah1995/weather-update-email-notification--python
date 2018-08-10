@@ -1,3 +1,11 @@
+'''
+Soumil Nitin Shah
+B.E in Electronic
+MS Electrical Engineering
+MS  Computer Engineering
+'''
+
+
 import requests
 import datetime
 import smtplib
